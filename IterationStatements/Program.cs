@@ -24,8 +24,6 @@ namespace IterationStatements
             } while (i < 100);
             // While your variable is less than 100
 
-
-
             //DONE -- Create a while loop
             //DONE -- While your variable is less than 200
             while(i < 200)
@@ -53,7 +51,7 @@ namespace IterationStatements
             }
 
             //DONE -- Create a for loop
-            //DONE -- in your initializer set the value of i to 199
+            //DONE -- in your initializer set the value of x to 199
             //DONE -- in your conditional, as long as i is less than or equal to the length of "numbers"
             //DONE -- and as long as i is greater than or equal to 0
             //DONE -- Decrement i by 1
